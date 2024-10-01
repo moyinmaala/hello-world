@@ -1,2 +1,2 @@
 # hello-world
-This repository is for practicing the GitHub Flow.
+im moyinmaala. im creating this readme to store my rookie codes on solidity
